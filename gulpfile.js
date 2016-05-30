@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var del = require('del');
 var webpack = require('webpack-stream');
 
-
+ 
 /**
  * Remove the current build
  */
