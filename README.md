@@ -6,6 +6,6 @@
 Angular2-webpack-kickstart is skeleton structure with all  ralated dependencies.
 
 ### Important libraries
-ngrx/router
-gulp
-webpack-dev-sever
+1 - ngrx/router (Best routing module untill angular router gets stable)
+2 - gulp
+3 - webpack-dev-sever
